@@ -23,8 +23,8 @@ Clock\ClockProvider\ClockProvider::class
 
 #usage
 To use this package 
-'''php
+```php
 clock::clock();
-'''
+```
 
 
