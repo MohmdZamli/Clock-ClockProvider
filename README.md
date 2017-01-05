@@ -14,17 +14,17 @@ Clock\ClockProvider\ClockProvider::class
 '''
 
 -put this aliases's array line
-'''php
+...php
 'clock' => Clock\ClockProvider\ClockControllerFacdecs::class
-'''
+...
 
 -now,please run this command line in yout terminal
 'php artisan vendor:publish'
 
 #usage
 To use this package 
-'''php
+...php
 clock::clock();
-'''
+...
 
 
